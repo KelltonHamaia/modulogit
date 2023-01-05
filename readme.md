@@ -4,4 +4,4 @@ alteração no readme para descrever melhor o meu sistema
 
 criei o script.js
 
-linha massa
+linha massa 2.0
